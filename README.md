@@ -1,5 +1,5 @@
 # Data-Telecommunication-Project
-  In this project we use differnet mechanism to send and receive data.
+  In this project we use different mechanism to send and receive data.
      1.DataLink Control  protocol
          -Selective Repeat
          -GO Back N
