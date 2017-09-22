@@ -3,7 +3,7 @@
      1.DataLink Control  protocol
          -Selective Repeat
          -GO Back N
-     2.Error Detection Secheme 
+     2.Error Detection Scheme 
          -CRC
          -Hamming distance
      3.Physical Layer
